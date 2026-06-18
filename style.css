@@ -30,6 +30,14 @@ section{
     padding-top:140px;
 }
 
+.name{
+    color:white;
+    font-size:18px;
+    font-weight:bold;
+    letter-spacing:3px;
+    margin-bottom:10px;
+}
+
 .tag{
     color:#38bdf8;
     letter-spacing:2px;
